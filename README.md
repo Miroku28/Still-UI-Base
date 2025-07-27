@@ -20,7 +20,7 @@ Laravel Jetstream（Inertia） + Vuetify + GraphQL 構成の拡張テンプレ�
 ## 🔧 初期構築手順（ローカル）
 
 ```bash
-git clone https://github.com/your-name/still-ui-base.git
+git clone https://github.com/Miroku28/Still-UI-Base.git
 cd still-ui-base
 
 cp .env.example .env
